@@ -5,6 +5,8 @@
 //  Created by 遠野ひろし on 2018/12/12.
 //  Copyright © 2018 遠野工房. All rights reserved.
 //
+// テストでコメント追加
+//
 
 import UIKit
 
